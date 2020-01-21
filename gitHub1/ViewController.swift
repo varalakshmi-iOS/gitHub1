@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     var actor = "Vijay"
     
     
+    
+    var actress = "Rashmika"
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
